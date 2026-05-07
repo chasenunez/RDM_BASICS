@@ -15,12 +15,16 @@ Your job: find them all.
 **Step 1 — Get the files.**
 Download and unpack the archive:
 
+This is quickly done in your terminal with:
+```bash
+git clone https://github.com/chasenunez/RDM_BASICS.git
+```
+
+then you can unpack the files by double clicking the file icon, or stay in the terminal and use:
 ```bash
 tar -xzf sample_messy_project.tar.gz
 cd sample_project/
 ```
-
-Or just open the folder in your file browser.
 
 **Step 2 — Explore.**
 Open the files. Look at the folder structure. Open the spreadsheets. Read the scripts. Check the images. Look at what's there — and what's missing.
