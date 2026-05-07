@@ -10,7 +10,7 @@ Your job: find them all.
 
 ## How to Play
 
-**Time:** 20–30 minutes (individually or in pairs)\\
+**Time:** 20–30 minutes (individually or in pairs)\
 
 **Step 1** — Get the files.
 Download and unpack the archive:
@@ -25,16 +25,16 @@ then you can unpack the files by double clicking the file icon, or stay in the t
 tar -xzf sample_messy_project.tar.gz
 cd sample_project/
 ```
-\\
+\
 
 **Step 2** — Explore.
-Open the files. Look at the folder structure. Open the spreadsheets. Read the scripts. Check the images. Look at what's there — and what's missing.\\
+Open the files. Look at the folder structure. Open the spreadsheets. Read the scripts. Check the images. Look at what's there — and what's missing.\
 
 **Step 3** — Hunt.
-Using the scorecard below, try to identify as many problems as you can. For each one you find, write down *where* you spotted it and *how* you'd fix it. Be specific — don't just say "bad naming," say which file and what's wrong with the name.\\
+Using the scorecard below, try to identify as many problems as you can. For each one you find, write down *where* you spotted it and *how* you'd fix it. Be specific — don't just say "bad naming," say which file and what's wrong with the name.\
 
 **Step 4** — Compare.
-When time is up, we'll go through the answer key together.\\
+When time is up, we'll go through the answer key together.\
 
 ## Scorecard
 
