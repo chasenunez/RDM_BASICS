@@ -4,7 +4,7 @@
 
 This repository contains a sample research project from a fictional alpine soil study. It looks like a normal project folder — but it's hiding **13 research data management problems** based on everything we covered in today's workshop.
 
-Your job: find them all.
+Your job is to download find all the problems, and propose a solution. 
 
 ---
 
@@ -15,7 +15,8 @@ Your job: find them all.
 **Step 1** — Get the files.
 Download and unpack the archive:
 
-This is quickly done in your terminal with:
+This can be direcly downloaded [here](https://github.com/chasenunez/RDM_BASICS/blob/main/RDM_SCAVENGER_HUNT/sample_messy_project.tar.gz), but it is often quickly done in your terminal with:
+
 ```bash
 git clone https://github.com/chasenunez/RDM_BASICS.git
 ```
@@ -25,8 +26,6 @@ then you can unpack the files by double clicking the file icon, or stay in the t
 tar -xzf sample_messy_project.tar.gz
 cd sample_project/
 ```
-
-
 **Step 2** — Explore.
 Open the files. Look at the folder structure. Open the spreadsheets. Read the scripts. Check the images. Look at what's there — and what's missing. 
 
